@@ -1,55 +1,54 @@
-# Basic Object-Oriented Programming
+# Basic Object-Oriented Programming  
 DSWU 2025-2
 
-Basic Basic Object-Oriented Programming Course Repository
+This repository contains assignments and practice code from the 
+"Basic Object-Oriented Programming" course at Duksung Women's University.
 
-Overview
+Language: Java
 
-This repository contains assignments and practice code created while taking the Basic Objected-Oreinted Programing course at Duksung Women's University (DSWU).
+In this course, I learned the basic syntax of Java and fundamental concepts of object-oriented programming (OOP), including:
 
-The Course focuses on fundamental concepts of Objecte-Oriented Programing (OOP) and basic programing skills.
+- Classes and Objects
+- Constructors and Methods
+- Inheritance
+- Polymorphism
+- Abstract Classes
+- Basic GUI programming (AWT)
 
-Language
-Java
+The folders are organized by week and homework number.
 
-Topics
+---
 
-Week 02 | HelloExer1
+## Topics
 
-HW 02 | HelloExer2Extra2
+Week 02 | HelloExer1  
+HW 02 | HelloExer2Extra2  
 
-Week 03 | HelloExer2Extra2
+Week 03 | HelloExer2Extra2  
+HW 03 | HelloExer5  
 
-HW 03 | HelloExer5
+Week 04 | HelloExer5Extra  
+HW 04 | HelloWinApplicationExtra2  
 
-Week 04 | HelloExer5Extra
+Week 05 | HelloWinApplicationExtra3  
+HW 05 | PenExer4Extra  
 
-HW 04 | HelloWinApplicationExtra2
+HW 06 | PenExer9Extra  
 
-Week 05 | HelloWinApplicationExtra3
+HW 08 | RectExer2  
 
-HW 05 | PenExer4Extra
+Week 09 | RectApplicationExtra2  
+HW 09 | RectExer4Extra  
 
-HW 06 | PenExer9Extra
+Week 10 | RectExer4Extra2  
+HW 10 | RectExer11Extra  
 
-HW 08 | RectExer2
+Week 11 | RectExer11Extra2  
+HW 11 | CardApplicationExtra  
 
-Week09 | RectApplicationExtra2
+HW 12 | CardExer3  
 
-HW 09 | RectExer4Extra
+Week 13 | CardExer3Extra  
+HW 13 | CardExer5_abstract  
 
-Week 10 | RectExer4Extra2
-
-HW 10 | RectExer11Extra
-
-Week 11 | RectExer11Extra2
-
-HW 11 | CardApplicationExtra
-
-HW 12 | CardExer3
-
-Week13 | CardExer3Extra
-
-HW 13 | CardExer5_abstract
-
-Week14 | CardExer5_abstractExtra
+Week 14 | CardExer5_abstractExtra
