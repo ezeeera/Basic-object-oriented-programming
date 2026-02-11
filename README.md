@@ -2,7 +2,7 @@
 DSWU 2025-2
 
 This repository contains assignments and practice code from the 
-"Basic Object-Oriented Programming" course at Duksung Women's University.
+Basic Object-Oriented Programming course at Duksung Women's University.
 
 Language: Java
 
