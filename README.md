@@ -35,12 +35,12 @@ HW 11 | CardApplicationExtra
 
 Week12 | CardApplicationLab
 
-HW 12 | CardApp3
+HW 12 | CardExer3
 
 Week13 | CardExer3Extra
 
 HW 13 | CardExer5_abstract
 
-Week14 | CardExer5-abstract
+Week14 | CardExer5_abstractExtra
 
 HW 14 | CardExer9_interface
