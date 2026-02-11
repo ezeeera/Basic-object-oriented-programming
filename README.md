@@ -33,8 +33,6 @@ Week 11 | RectExer11Extra2
 
 HW 11 | CardApplicationExtra
 
-Week12 | CardApplicationLab
-
 HW 12 | CardExer3
 
 Week13 | CardExer3Extra
@@ -42,5 +40,3 @@ Week13 | CardExer3Extra
 HW 13 | CardExer5_abstract
 
 Week14 | CardExer5_abstractExtra
-
-HW 14 | CardExer9_interface
