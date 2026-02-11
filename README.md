@@ -3,7 +3,7 @@ DSWU 2025-2 / Basic object-oriented programing
 
 Week 02 | HelloExer1
 
-HW 02 | HelloExer2
+HW 02 | HelloExer2Extra2
 
 Week 03 | HelloExer2Extra2
 
