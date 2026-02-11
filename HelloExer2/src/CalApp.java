@@ -1,6 +1,6 @@
 //=============================================================
 //	Simple Calculator Application in Java
-//  ÄÜ¼Ö À©µµ¿ì¿¡ µÎ ½Ç¼ö¸¦ ÀÓ·ÂÇÏ°í + - * / Áß ¼±ÅÂ°²¸é °è»ê °á°ú¸¦ Ãâ·Â
+//  ì½˜ì†” ìœˆë„ìš°ì— ë‘ ì‹¤ìˆ˜ë¥¼ ì„ë ¥í•˜ê³  + - * / ì¤‘ ì„ íƒí•˜ë©´ ê³„ì‚° ê²°ê³¼ë¥¼ ì¶œë ¥
 //=============================================================
 
 import java.util.Scanner;
@@ -11,23 +11,23 @@ public class CalApp {
 		double x, y;
 		int op;
 		Scanner s = new Scanner(System.in);
-		System.out.print("µÎ ½Ç¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä: ");
+		System.out.print("ë‘ ì‹¤ìˆ˜ë¥¼ ì…ë ¥í•˜ì„¸ìš”: ");
 		x = s.nextDouble();
 		y = s.nextDouble();
-		System.out.println("¿øÇÏ´Â ¿¬»êÀÇ ¹øÈ£¸¦ ¼±ÅÃÇÏ¼¼¿ä");
+		System.out.println("ì›í•˜ëŠ” ì—°ì‚°ì˜ ë²ˆí˜¸ë¥¼ ì„ íƒí•˜ì„¸ìš”");
 		System.out.print("(1) +, (2) -, (3) *, (4) /: ");
 		op = s.nextInt();
 		switch(op) {
-			case 1: System.out.println("µ¡¼À °á°ú´Â " + (x+y) + "ÀÔ´Ï´Ù");
+			case 1: System.out.println("ë§ì…ˆ ê²°ê³¼ëŠ” " + (x+y) + "ì…ë‹ˆë‹¤");
 					break;
-			case 2: System.out.println("»¬¼À °á°ú´Â " + (x-y) + "ÀÔ´Ï´Ù");
+			case 2: System.out.println("ëº„ì…ˆ ê²°ê³¼ëŠ” " + (x-y) + "ì…ë‹ˆë‹¤");
 					break;
-			case 3: System.out.println("°ö¼À °á°ú´Â " + (x*y) + "ÀÔ´Ï´Ù");
+			case 3: System.out.println("ê³±ì…ˆ ê²°ê³¼ëŠ” " + (x*y) + "ì…ë‹ˆë‹¤");
 					break;
-			case 4: System.out.println("³ª´°¼À °á°ú´Â " + (x/y) + "ÀÔ´Ï´Ù");
+			case 4: System.out.println("ë‚˜ëˆ—ì…ˆ ê²°ê³¼ëŠ” " + (x/y) + "ì…ë‹ˆë‹¤");
 					break;
 			default:
-					System.err.println("ÀÔ·Â ¿À·ù!!");
+					System.err.println("ì…ë ¥ ì˜¤ë¥˜!!");
 		}
 		s.close();
 	}
