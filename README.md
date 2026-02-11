@@ -1,5 +1,5 @@
 # Basic-object-oriented-programming
-DSWU 2025-2 / Basic object-oriented programing
+DSWU 2025-2 / Basic object-oriented programin
 Week 02 | HelloExer1
 HW 02 | HelloExer2Extra
 Week 03 | HelloExer2Extra, HelloExer2Extra2
