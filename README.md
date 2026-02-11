@@ -5,7 +5,7 @@ Week 02 | HelloExer1
 
 HW 02 | HelloExer2Extra
 
-Week 03 | HelloExer2Extra, HelloExer2Extra2
+Week 03 | HelloExer2Extra2
 
 HW 03 | HelloExer5
 
