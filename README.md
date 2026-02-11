@@ -1,5 +1,18 @@
-# Basic-object-oriented-programming
-DSWU 2025-2 / Basic object-oriented programing
+# Basic Object-Oriented Programming
+DSWU 2025-2
+
+Basic Basic Object-Oriented Programming Course Repository
+
+Overview
+
+This repository contains assignments and practice code created while taking the Basic Objected-Oreinted Programing course at Duksung Women's University (DSWU).
+
+The Course focuses on fundamental concepts of Objecte-Oriented Programing (OOP) and basic programing skills.
+
+Language
+Java
+
+Topics
 
 Week 02 | HelloExer1
 
